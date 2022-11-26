@@ -6,6 +6,7 @@ dnSpyEx is a unofficial continuation of the [dnSpy](https://github.com/dnSpy/dnS
 - Edit .NET and Unity assemblies
 - Light and dark themes
 
+
 See below for more features
 
 ![debug-animated](images/debug-animated.gif)
